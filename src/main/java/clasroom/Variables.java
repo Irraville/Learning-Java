@@ -25,10 +25,12 @@ public class Variables {
 
         short yearOfBirth = 1998;
 
-        // char
+        // char {Character}
+        // Grade:
+        char grade = 'A';
         // char:
-        char firstInitial = "i";
-        char lastName = "a";
+        char firstInitial = 'i';
+        char lastName = 'a';
 
         // Floating point
         // long
@@ -63,7 +65,6 @@ public class Variables {
 
         //String
         String firstName = "Athena";
-        String lastName = "Simson";
 
         //var
         var myCurrentAge = 18;
@@ -78,6 +79,19 @@ public class Variables {
         // %
         boolean evenNumber = 4 % 2 == 0; //true
         boolean oddnumber = 4 % 3 == 0; //false
+
+        // Operators {Simple example}
+        int x = 10;
+        int y = 20;
+        int result = x + y;
+
+        int a = 30;
+        int b = 40;
+        int anotherResult = a - b;
+
+        int c = 10 + 20;
+
+
 
 
     }
