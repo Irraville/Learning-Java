@@ -80,6 +80,19 @@ public class Variables {
         boolean evenNumber = 4 % 2 == 0; //true
         boolean oddnumber = 4 % 3 == 0; //false
 
+        // Operators {Simple example}
+        int x = 10;
+        int y = 20;
+        int result = x + y;
+
+        int a = 30;
+        int b = 40;
+        int anotherResult = a - b;
+
+        int c = 10 + 20;
+
+
+
 
     }
 }
