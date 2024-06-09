@@ -16,7 +16,7 @@ public class PlayWithWhileLoops {
         int b = 2;
         while (b <= 20) {
             System.out.println(b);
-            b++ 2;
+
         }
 
     }
