@@ -43,7 +43,6 @@ public class PezDispenser {
         int anyAmount = 3;
         if (pezCount - anyAmount >= 0) {
             System.out.println("True");
-            ;
         }
     }
 
@@ -71,7 +70,6 @@ public class PezDispenser {
         int anyAmount = 2;
         if (pezCount + anyAmount <= MAX_PEZ) {
             System.out.println("True");
-            ;
         }
     }
 

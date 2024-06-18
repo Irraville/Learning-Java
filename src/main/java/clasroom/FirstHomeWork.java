@@ -11,7 +11,8 @@ public class FirstHomeWork {
             System.out.println("This number is positive");
         }
 
-        //Odd or even: Create a Java program that determines if a given integer is even. If it is, print "Even number."
+        //Odd or even: Create a Java program that determines if a given integer is even.
+        // If it is, print "Even number."
 
         int value = 10;
         if (value % 2 == 0) {
